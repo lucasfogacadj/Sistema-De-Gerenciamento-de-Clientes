@@ -5,8 +5,8 @@
 
 Tecnologias usadas para criação do sistema
 
-#Vagrant
-#PHP
-#Laravel
-#MySQL
+# Vagrant
+# PHP
+# Laravel
+# MySQL
 
