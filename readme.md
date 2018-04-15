@@ -6,19 +6,20 @@
 Sistema para gerenciar clientes.
 
 Cadastro de clientes para  listar, adicionar, editar e excluir registros. 
+
 E  um sistema de login com validação de formulário.
 
  
 
 # Tecnologias e metodos usados:
-# Artisan e Tinker
-# MVC
-# Rotas
-# Controllers
-# Templates com Blade
-# Model
-# Migrations
-# Sistema de Autenticação
-# CRUD completo
-# Banco de Dados Orientado a Objetos
+ Artisan e Tinker
+ MVC
+ Rotas
+ Controllers
+ Templates com Blade
+ Model
+ Migrations
+ Sistema de Autenticação
+ CRUD completo
+ Banco de Dados Orientado a Objetos
  
