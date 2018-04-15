@@ -13,13 +13,22 @@ E  um sistema de login com validação de formulário.
 
 # Tecnologias e metodos usados:
  Artisan e Tinker
+ 
  MVC
+ 
  Rotas
+ 
  Controllers
+ 
  Templates com Blade
+ 
  Model
+ 
  Migrations
+ 
  Sistema de Autenticação
+ 
  CRUD completo
+ 
  Banco de Dados Orientado a Objetos
  
